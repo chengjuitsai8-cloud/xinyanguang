@@ -12,7 +12,7 @@ window.APP_DATA = {
   },
   priceSource: '新光醫院官網公告（113 年 9 月版）',
   nhiPay: 2744,
-  femtoPrice: 68000,   /* 飛秒雷射每眼自費金額（新台幣） */
+  femtoPrice: 65000,   /* 飛秒雷射每眼自費金額（新台幣） */
 
   /* far / inter / near：0–3，不戴眼鏡時該距離的清晰程度
      halo：0–3，夜間光暈眩光的機會
